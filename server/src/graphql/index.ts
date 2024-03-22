@@ -1,2 +1,2 @@
-import * as resolvers from "./resolvers";
+import * as resolvers from "../graphql/resolvers";
 import * as typeDefs from "./typeDefs";
